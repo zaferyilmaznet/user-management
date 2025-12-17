@@ -29,10 +29,10 @@ Built using **vanilla JS modules**, designed for easy future integration with re
 
 ## 🧩 Folder Structure
 
-js - - auth.js - main.js - state.js - storage.js - ui.js - utils.js
-index.html
-README.md
-style.css
+/js - - auth.js - main.js - state.js - storage.js - ui.js - utils.js
+/index.html
+/README.md
+/style.css
 
 ---
 
